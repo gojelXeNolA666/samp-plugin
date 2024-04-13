@@ -1,0 +1,6 @@
+mirage.samp-ph.com:7777=logomirage
+51.79.142.15:7777=logo
+wgrp.panel.wonderprotect.com:3333=wickedrp
+34.142.177.73:7777=corrp
+51.79.144.3:7777=atrp
+logo=logo
